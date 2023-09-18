@@ -4,7 +4,7 @@ Factorial Calculation Compiler build from scratch using ASM and Java inspired fr
 ## Test Cases
 
 ### Tested Outputs
-![Test Image 01](./TestCases/1.jpg)
+![Test Image 01](./TestCases/1.JPG)
 
 ### javap -c Factorial File
-![Test Image 01](./TestCases/2.jpg)
+![Test Image 01](./TestCases/2.JPG)
